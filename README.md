@@ -6,7 +6,7 @@ This tutorial was originally presented at the GitHub for Documentation workshop 
 
 Presenter: Rhonda Glennon, [@rmglennon](https://github.com/rmglennon)
 
-GitHub enables people to collaborate on projects, and many organizations use it for managing both software code and documentation. At this Write the Docs, you will get started with GitHub by applying its tools to building a documentation website.
+GitHub enables people to collaborate on projects, and many organizations use it for managing both software code and documentation. At this Write the Docs, you will get started with GitHub by applying its tools to building a documentation website. haha
 
 In this hands-on workshop, you will:
 
